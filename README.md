@@ -6,7 +6,6 @@ A powerful Windows application for splitting large Outlook PST files with **adva
 - **Single portable executable** - run from anywhere
 - **Complete package** in one file (no dependencies)
 - **PST repair feature** integrated with SCANPST.EXE
-- **Latest optimizations** with 15-inch screen support
 - **Enhanced cancellation** works during all operation phases
 - **Real-time progress** updates throughout the process
 - **Ultra-compact UI** designed for smaller displays
@@ -14,8 +13,7 @@ A powerful Windows application for splitting large Outlook PST files with **adva
 - **Trusted publisher**: Ensue Technologies embedded information
 - **Build**: PyInstaller 6.13.0 + Python 3.12.10 + Windows 11
 
-**🏢 Developed by: Ensue - Where Ideas Become Results**  
-**📧 Contact: info@ensue.com**  
+**🏢 Developed by: Sagar Sorathiya** 
 **🌐 Company: Ensue Technologies**
 
 ## 🌟 **Latest Version Features - Ensue Edition**
