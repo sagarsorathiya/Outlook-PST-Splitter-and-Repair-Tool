@@ -8,7 +8,9 @@
 
 ## 📦 **Download Ready-to-Use Application**
 
-### 🎯 **PSTSplitterOneFile.exe** (31.6 MB)** 
+### 🎯 **PSTSplitterOneFile.exe** (31.6 MB)
+
+**[⬇️ DIRECT DOWNLOAD](https://github.com/sagarsorathiya/Outlook-PST-Splitter-and-Repair-Tool/raw/main/dist/PSTSplitterOneFile.exe)**
 
 ✅ **No installation required** - just download and run  
 ✅ **Complete package** - all dependencies included  
@@ -41,7 +43,7 @@
 
 ## 🚀 **Quick Start**
 
-1. **Download** PSTSplitterOneFile.exe from releases
+1. **[Download PSTSplitterOneFile.exe](https://github.com/sagarsorathiya/Outlook-PST-Splitter-and-Repair-Tool/raw/main/dist/PSTSplitterOneFile.exe)** (31.6 MB)
 2. **Run** the executable (no installation needed)
 3. **Select** your PST file and output folder
 4. **Choose** splitting method or repair option
