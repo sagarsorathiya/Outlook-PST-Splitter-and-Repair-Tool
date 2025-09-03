@@ -1,0 +1,18 @@
+theme: minima
+title: "Outlook PST Splitter and Repair Tool"
+description: "Free PST File Splitter and Repair Tool for Outlook. Split large PST files by size, year, or month. Repair corrupted PST files. Download for Windows 10/11."
+author: "Sagar Sorathiya"
+url: "https://sagarsorathiya.github.io"
+baseurl: "/Outlook-PST-Splitter-and-Repair-Tool"
+
+# SEO settings
+lang: en_US
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social links
+github_username: sagarsorathiya
+
+# Google Analytics (add your tracking ID if you have one)
+# google_analytics: UA-XXXXXXXXX-X

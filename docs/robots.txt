@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sagarsorathiya.github.io/Outlook-PST-Splitter-and-Repair-Tool/sitemap.xml
