@@ -1,6 +1,11 @@
 # Version information for PST Splitter - Ensue Edition
 # Used by PyInstaller to embed version info in the executable
 
+from PyInstaller.utils.win32.versioninfo import (
+    VSVersionInfo, FixedFileInfo, StringFileInfo, StringTable, 
+    StringStruct, VarFileInfo, VarStruct
+)
+
 VSVersionInfo(
   ffi=FixedFileInfo(
     filevers=(2, 0, 0, 0),
