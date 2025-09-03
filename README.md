@@ -1,6 +1,8 @@
 # Outlook PST Splitter and Repair Tool 🚀
 
-**Professional Outlook PST file management tool with splitting and repair capabilities**
+**Free PST File Splitter - Split Large Outlook PST Files | PST Repair Tool | Outlook Email Management**
+
+**Professional Outlook PST file management tool with splitting and repair capabilities. Split large PST files by size, year, or month. Repair corrupted PST files. Free download for Windows.**
 
 *Developed by Sagar Sorathiya*
 
@@ -70,6 +72,12 @@
 - **Microsoft Outlook** installed and configured
 - **PST files** accessible to Outlook
 - **Sufficient disk space** (2x source PST size recommended)
+
+---
+
+## 🏷️ **Keywords & Tags**
+
+`outlook pst splitter` `split pst file` `pst repair tool` `outlook file management` `large pst files` `pst size limit` `outlook performance` `email organization` `pst backup` `outlook optimization` `free pst tool` `windows pst splitter`
 
 ---
 
