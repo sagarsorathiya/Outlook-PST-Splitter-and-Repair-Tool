@@ -1,20 +1,19 @@
-# PST Splitter - Ensue Edition 🚀
+# Outlook PST Splitter and Repair Tool 🚀
 
 **Professional Outlook PST file management tool with splitting and repair capabilities**
 
-*Developed by Ensue Technologies - Where Ideas Become Results*
+*Developed by Sagar Sorathiya*
 
 ---
 
 ## 📦 **Download Ready-to-Use Application**
 
-### 🎯 **PSTSplitterOneFile.exe** (31.6 MB)
-**[Download from Releases](https://github.com/sagarsorathiya/PST-Splitter-Ensue-Edition/releases/tag/v2.0.0)** 
+### 🎯 **PSTSplitterOneFile.exe** (31.6 MB)** 
 
 ✅ **No installation required** - just download and run  
 ✅ **Complete package** - all dependencies included  
 ✅ **Windows 10/11** compatible  
-✅ **Professional signed** - Ensue Technologies publisher  
+✅ **Professional signed** - by Sagar Sorathiya  
 
 ---
 
@@ -34,8 +33,7 @@
 - **Complete solution** for PST file management
 
 ### 💻 **User Experience**
-- **15-inch screen optimized** interface
-- **Professional UI** with Ensue Technologies branding
+- **Professional UI** with modern design
 - **Large preview** windows for better visibility
 - **Responsive controls** with immediate feedback
 
@@ -69,16 +67,5 @@
 - **PST files** accessible to Outlook
 - **Sufficient disk space** (2x source PST size recommended)
 
----
 
-## 📞 **Support**
-
-**Company**: Ensue Technologies  
-**Email**: info@ensue.com  
-**Website**: ensue.com  
-
-For issues, please include PST file size and Windows version in your message.
-
----
-
-**🏢 © 2025 Ensue Technologies - Where Ideas Become Results**
+**🏢 © 2025 Sagar Sorathiya**
