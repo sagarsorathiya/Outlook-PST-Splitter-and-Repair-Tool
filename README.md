@@ -45,6 +45,8 @@
 
 1. **[Download PSTSplitterOneFile.exe](https://github.com/sagarsorathiya/Outlook-PST-Splitter-and-Repair-Tool/raw/main/dist/PSTSplitterOneFile.exe)** (31.6 MB)
 2. **Run** the executable (no installation needed)
+   - Windows may show "Unknown publisher" warning - this is normal for downloaded executables
+   - Click "Run anyway" or "More info" → "Run anyway" to continue
 3. **Select** your PST file and output folder
 4. **Choose** splitting method or repair option
 5. **Click Start** and let it work!
@@ -69,5 +71,14 @@
 - **PST files** accessible to Outlook
 - **Sufficient disk space** (2x source PST size recommended)
 
+---
+
+## 🔒 **Security Notice**
+
+Windows Defender SmartScreen may show "Unknown publisher" when downloading the executable. This is normal for software distributed via GitHub without expensive code signing certificates. The software is safe to use - you can:
+
+1. Click **"More info"** in the Windows warning dialog
+2. Click **"Run anyway"** to proceed
+3. Or right-click the file → **"Properties"** → **"Unblock"** → **"OK"**
 
 **🏢 © 2025 Sagar Sorathiya**
