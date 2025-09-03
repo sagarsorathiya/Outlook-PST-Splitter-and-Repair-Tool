@@ -1,6 +1,6 @@
-# PST Splitter - Ensue Edition 🚀
+# PST Splitter 🚀
 
-A powerful Windows application for splitting large Outlook PST files with **advanced high-performance processing**, **responsive cancellation**, **15-inch screen optimization**, **PST repair functionality**, and **enhanced progress tracking** - **Where Ideas Become Results**.
+A powerful Windows application for splitting large Outlook PST files with **advanced high-performance processing**, **responsive cancellation**,  **PST repair functionality**, and **enhanced progress tracking** - **Where Ideas Become Results**.
 
 ### 🎯 **PSTSplitterOneFile.exe** (31.6 MB - Latest Build)
 - **Single portable executable** - run from anywhere
