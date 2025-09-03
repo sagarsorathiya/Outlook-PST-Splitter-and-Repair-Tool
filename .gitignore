@@ -19,6 +19,13 @@ ENV/
 .idea/
 .vscode/
 
+# GitHub configuration (not needed for simple distribution)
+.github/
+
+# Testing (keep development simple)
+tests/
+.pytest_cache/
+
 # OS
 .DS_Store
 Thumbs.db
@@ -62,9 +69,6 @@ performance_guide.py
 pst_diagnostic.py
 build_exe.py
 
-# Allow proper test files in tests/ directory
-!tests/test_*.py
-
 # Documentation drafts and development notes
 *_FIXES.md
 *_IMPROVEMENTS.md
@@ -92,7 +96,4 @@ PSTSplitter_*.spec
 # Task lists and TODO files
 tasks.txt
 TODO.md
-
-# Python cache
-.pytest_cache/
 

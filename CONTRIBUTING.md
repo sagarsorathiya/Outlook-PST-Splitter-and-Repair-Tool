@@ -2,7 +2,15 @@
 
 Thank you for your interest in contributing to PST Splitter! This document provides guidelines for contributing to the project.
 
-## 🚀 **Development Setup**
+## 🚀 **Deve### 🏷️ **Release Process**
+
+1. Update version in `version_info.py`
+2. Update CHANGELOG.md
+3. Test the application manually
+4. Build and test executables
+5. Create release notes
+6. Tag release in Git
+7. Publish executablesetup**
 
 ### Prerequisites
 - Python 3.12+ (recommended)
@@ -22,28 +30,6 @@ python -m venv .venv
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-## 🧪 **Testing**
-
-### Running Tests
-```powershell
-# Run all tests
-pytest -q
-
-# Run specific test file
-pytest tests/test_grouping.py -v
-
-# Run with coverage
-pytest --cov=pstsplitter tests/
-```
-
-### Test Coverage
-The project maintains comprehensive test coverage including:
-- ✅ PST file grouping logic
-- ✅ Date range filtering
-- ✅ Folder filtering
-- ✅ Error handling scenarios
-- ✅ Performance optimization features
 
 ## 🔨 **Building**
 
@@ -126,8 +112,8 @@ Please attach exported analysis files (JSON/CSV/TXT)
 ## 📋 **Pull Request Process**
 
 ### Before Submitting
-1. ✅ Run all tests (`pytest -q`)
-2. ✅ Check code quality (`mypy`, `ruff`)
+1. ✅ Test the application manually
+2. ✅ Check code quality (basic review)
 3. ✅ Update documentation if needed
 4. ✅ Test the executable build
 5. ✅ Update CHANGELOG.md
