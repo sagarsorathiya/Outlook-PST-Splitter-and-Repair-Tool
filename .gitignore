@@ -5,8 +5,8 @@ __pycache__/
 
 # Distribution / packaging
 build/
-# Keep dist/ folder but ignore executables
-dist/*.exe
+# Include the built executable for distribution
+# dist/*.exe
 *.egg-info/
 
 # Virtual environments
